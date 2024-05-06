@@ -3,9 +3,9 @@ from distutils.core import setup
 from setuptools import find_packages
 
 setup(
-    name='django-versatileimagefield',
+    name='django-versatileimagefield-priv',
     packages=find_packages(),
-    version='3.1',
+    version='3.1.3',
     author='Jonathan Ellenberger',
     author_email='jonathan_ellenberger@wgbh.org',
     url='http://github.com/respondcreate/django-versatileimagefield/',
